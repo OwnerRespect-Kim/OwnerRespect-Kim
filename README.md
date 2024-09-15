@@ -67,3 +67,13 @@
     <img src="https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   </a>
 </div>
+
+<br>
+<br>
+
+<!-- GitHub 스탯 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OwnerRespect-Kim&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwnerRespect-Kim&layout=compact&theme=dark" />
+</div>
+
