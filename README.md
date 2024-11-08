@@ -69,6 +69,15 @@
 </div>
 
 <br>
+
+<h3 align="center">💚 My Portfolio 💚</h3>
+<div align="center">
+  <a href="https://www.notion.so/136e726ff1aa80f2babbc1a82d4da1a4?pvs=4" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-Portfolio-F3F3F3?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+</div>
+
+<br>
 <br>
 
 <!-- GitHub 스탯 -->
